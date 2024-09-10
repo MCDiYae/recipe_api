@@ -23,7 +23,7 @@ recipes = [
     {
       "id": "1",
       "title": "Spaghetti Carbonara",
-      "imageUrl": "assets/images/spaghetti_carbonara.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/spaghetti_carbonara.jpg",
       "categories": ["Italian", "trend"],
       "ingredients": [
           "Spaghetti",
@@ -43,7 +43,7 @@ recipes = [
   {
       "id": "2",
       "title": "Sushi",
-      "imageUrl": "assets/images/sushi.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/sushi.jpg",
       "categories": ["Asian","trend"],
       "ingredients": [
           "Sushi rice",
@@ -63,7 +63,7 @@ recipes = [
   {
       "id": "3",
       "title": "Chocolate Cake",
-      "imageUrl": "assets/images/chocolate_cake.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/chocolate_cake.jpg",
       "categories": ["Desserts"],
       "ingredients": [
           "Flour",
@@ -83,7 +83,7 @@ recipes = [
   {
       "id": "4",
       "title": "Tacos",
-      "imageUrl": "assets/images/tacos.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/tacos.jpg",
       "categories": ["Mexican"],
       "ingredients": [
           "Tortillas",
@@ -103,7 +103,7 @@ recipes = [
   {
       "id": "5",
       "title": "Butter Chicken",
-      "imageUrl": "assets/images/butter_chicken.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/butter_chicken.jpg",
       "categories": ["Indian"],
       "ingredients": [
           "Chicken",
@@ -123,7 +123,7 @@ recipes = [
   {
       "id": "6",
       "title": "Greek Salad",
-      "imageUrl": "assets/images/greek_salad.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/greek_salad.jpg",
       "categories": ["Mediterranean"],
       "ingredients": [
           "Tomatoes",
@@ -143,7 +143,7 @@ recipes = [
   {
       "id": "7",
       "title": "Falafel",
-      "imageUrl": "assets/images/falafel.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/falafel.jpg",
       "categories": ["Middle Eastern","trend"],
       "ingredients": [
           "Chickpeas",
@@ -163,7 +163,7 @@ recipes = [
   {
       "id": "8",
       "title": "Vegetarian Pizza",
-      "imageUrl": "assets/images/vegetarian_pizza.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/vegetarian_pizza.jpg",
       "categories": ["Vegetarian","trend","Italian"],
       "ingredients": [
           "Pizza dough",
@@ -183,7 +183,7 @@ recipes = [
   {
       "id": "9",
       "title": "Vegan Burger",
-      "imageUrl": "assets/images/vegan_burger.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/vegan_burger.jpg",
       "categories": ["Vegan"],
       "ingredients": [
           "Vegan patties",
@@ -203,7 +203,7 @@ recipes = [
   {
       "id": "10",
       "title": "Paella",
-      "imageUrl": "assets/images/paella.jpg",
+      "imageUrl": "https://my-app-images11.s3.amazonaws.com/paella.jpg",
       "categories": ["Spanish","trend"],
       "ingredients": [
           "Rice",
@@ -223,7 +223,7 @@ recipes = [
   {
     "id": "11",
     "title": "Beef Wellington",
-    "imageUrl": "assets/images/beef_wellington.jpg",
+    "imageUrl": "https://my-app-images11.s3.amazonaws.com/beef_wellington.jpg",
     "categories": ["Western"],
     "ingredients": [
         "Beef tenderloin",
@@ -247,7 +247,7 @@ recipes = [
 {
     "id": "12",
     "title": "Chicken Pot Pie",
-    "imageUrl": "assets/images/chicken_pot_pie.jpg",
+    "imageUrl": "https://my-app-images11.s3.amazonaws.com/chicken_pot_pie.jpg",
     "categories": ["Western"],
     "ingredients": [
         "Chicken breast",
@@ -273,7 +273,7 @@ recipes = [
 {
     "id": "13",
     "title": "Shepherd's Pie",
-    "imageUrl": "assets/images/shepherds_pie.jpg",
+    "imageUrl": "https://my-app-images11.s3.amazonaws.com/shepherds_pie.jpg",
     "categories": ["Western"],
     "ingredients": [
         "Ground lamb",
@@ -298,7 +298,7 @@ recipes = [
 {
     "id": "14",
     "title": "Chicken Teriyaki",
-    "imageUrl": "assets/images/chicken_teriyaki.jpg",
+    "imageUrl": "https://my-app-images11.s3.amazonaws.com/chicken_teriyaki.jpg",
     "categories": ["Asian","trend"],
     "ingredients": [
         "Chicken thighs",
@@ -320,7 +320,7 @@ recipes = [
 {
     "id": "15",
     "title": "Pad Thai",
-    "imageUrl": "assets/images/pad_thai.jpg",
+    "imageUrl": "https://my-app-images11.s3.amazonaws.com/pad_thai.jpg",
     "categories": ["Asian"],
     "ingredients": [
         "Rice noodles",
@@ -347,7 +347,7 @@ recipes = [
 {
     "id": "16",
     "title": "Cheesecake",
-    "imageUrl": "assets/images/cheesecake.jpg",
+    "imageUrl": "https://my-app-images11.s3.amazonaws.com/cheesecake.jpg",
     "categories": ["Desserts","trend"],
     "ingredients": [
         "Cream cheese",
@@ -370,7 +370,7 @@ recipes = [
 {
     "id": "17",
     "title": "Tiramisu",
-    "imageUrl": "assets/images/tiramisu.jpg",
+    "imageUrl": "https://my-app-images11.s3.amazonaws.com/tiramisu.jpg",
     "categories": ["Desserts"],
     "ingredients": [
         "Mascarpone cheese",

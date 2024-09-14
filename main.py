@@ -1,7 +1,17 @@
 from fastapi import FastAPI
 from typing import List, Dict
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+# Allow CORS for all origins (for development purposes)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all methods (GET, POST, etc.)
+    allow_headers=["*"],  # Allow all headers
+)
 
 # Sample data
 categories = [
